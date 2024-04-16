@@ -1,6 +1,6 @@
 # vmupgradeazure
 <p align="center">
-<img src="https://i.imgur.com/hbO1sQ3.png" alt="Azure Logo"/>
+<img src="https://imgur.com/nHF2q0v"/>
 </p>
 
 <h2>How To Upgrade Existing Microsoft VM in Azure</h2>
